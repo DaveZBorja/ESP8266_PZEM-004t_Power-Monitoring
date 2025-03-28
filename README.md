@@ -1,4 +1,4 @@
-# ESP8266 Power Monitor with AP Mode
+# ESP8266 Power Monitoring with AP Mode
 
 ## Overview
 This project is an ESP8266-based **Power Monitoring System** that reads voltage, current, power, energy, frequency, and power factor using the **PZEM-004T-100A** sensor. It runs as a **standalone access point (AP Mode)** and serves a web interface where real-time power data can be viewed.
